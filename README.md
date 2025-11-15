@@ -1,8 +1,5 @@
 # SITE Capstone Project: Nomadia
 
-Nomadia is a web-based travel planning application designed to streamline the process of discovering flights, hotels, and activities across thousands of destinations. The platform focuses on clarity, simplicity, and user-centered design, allowing travelers to build personalized itineraries without navigating multiple confusing platforms.
----
-
 ## Table of Contents
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
