@@ -152,33 +152,33 @@ npm start
 ```
 ## Tech Stack
 ### Frontend
--React.js
--CSS
+- React.js
+- CSS
 
 ### Backend
--Node.js
--Express.js
+- Node.js
+- Express.js
 
 ### Database
--PostgreSQL
+- PostgreSQL
 
 ### External APIs
--Foursquare API (activities and POIs)
--Booking.com API (hotels and accommodations)
--Duffel API (flight offers and airline bookings)
+- Foursquare API (activities and POIs)
+- Booking.com API (hotels and accommodations)
+- Duffel API (flight offers and airline bookings)
 
 ## Future Improvements
--Add user authentication and secure session management
--Improve mobile responsiveness across all pages
--Integrate more filtering options for activities and hotels
--Add caching or rate-limit handling for external APIs
--Expand itinerary features such as drag-and-drop reordering
--Add automated tests for backend routes and database logic
+- Add user authentication and secure session management
+- Improve mobile responsiveness across all pages
+- Integrate more filtering options for activities and hotels
+- Add caching or rate-limit handling for external APIs
+- Expand itinerary features such as drag-and-drop reordering
+- Add automated tests for backend routes and database logic
 
 ## Contributors
 
--Emily
--Leena
--Gregory
+- Emily
+- Leena
+- Gregory
 
 
