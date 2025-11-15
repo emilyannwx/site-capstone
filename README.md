@@ -9,7 +9,6 @@
 - [Core Features](#core-features)
 - [Technical Architecture](#technical-architecture)
 - [User Capabilities](#user-capabilities)
-- [User Guide](#user-guide)
 - [Slides & Documentation](#slides--documentation)
 - [How to Run Locally](#how-to-run-locally)
 - [Tech Stack](#tech-stack)
