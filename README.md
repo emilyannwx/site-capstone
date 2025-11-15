@@ -121,8 +121,8 @@ Includes all unauthenticated capabilities plus:
 ## Slides & Documentation
 Add your files to the repository and update the links below.
 
-- [Project Presentation Slides](docs/Codepath_Capstone_Project.pdf)  
-- [User Guide](docs/Nomadia_User_Guide.pdf)
+- [Project Presentation Slides](public/docs/Codepath_Capstone_Project.pdf)  
+- [User Guide](public/docs/Nomadia_User_Guide.pdf)
 
 ---
 
