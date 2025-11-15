@@ -119,17 +119,11 @@ Includes all unauthenticated capabilities plus:
 - View saved itineraries
 
 ---
-
-## User Guide
-Upload your user guide PDF to the repository and link it here, or paste the full text and I can format it.
-
----
-
 ## Slides & Documentation
 Add your files to the repository and update the links below.
 
-- Project Presentation Slides (PDF) —
-- User Guide (PDF) — 
+- [Project Presentation Slides](docs/Codepath_Capstone_Project.pdf)  
+- [User Guide](docs/Nomadia_User_Guide.pdf)
 
 ---
 
